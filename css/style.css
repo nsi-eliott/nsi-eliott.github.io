@@ -23,9 +23,10 @@ h2{
     align-items: center;
     flex-wrap: wrap;
     width: 1369px;
-    background-color: white;
+    background-color: darkblue;
     margin-left: -7px;
     margin-top:-10px;
+    position: fixed;
 }
 
 .petit{
@@ -34,7 +35,7 @@ h2{
 }
 
 .bleu{
-    color: #002D74;
+    color: white;
     font-size: 28px;
 }
 
@@ -89,4 +90,5 @@ h2{
 }
 body{
     background-color:  #000000;
+    height: 2000px;
 }
