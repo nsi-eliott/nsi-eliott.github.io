@@ -102,3 +102,8 @@ body{
     height: 20%;
     opacity: 100%;
 }
+
+.example{
+    display: flex;
+    flex-direction: row;
+}
