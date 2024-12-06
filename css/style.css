@@ -80,6 +80,7 @@ h2{
     display: flex;
     flex-wrap: wrap;
     text-align: center;
+    margin-top: 60px;
 }
 
 .body table{
@@ -94,10 +95,10 @@ h2{
 body{
     background-color:  #000000;
     height: 2000px;
-    margin: 60px;
 }
 
 .vocaloid{
     width: 20%;
     height: 20%;
+    opacity: 0.1%;
 }
