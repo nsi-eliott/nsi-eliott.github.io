@@ -105,4 +105,5 @@ body{
 
 .example{
     display: flex;
+    display: row;
 }
