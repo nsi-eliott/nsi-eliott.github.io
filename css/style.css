@@ -1,6 +1,7 @@
 .logo img{
     width: 100px ;
     height: 100px ;
+    padding-right:5px;
 }
 .grass span{
     font-weight: bold;
