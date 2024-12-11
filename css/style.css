@@ -118,7 +118,7 @@ body{
 }
 
 .posts P{
-    background-image:linear-gradient(#1010F5,#5F5F5F);
+    background-image:linear-gradient(#92cfc6,#fdfdfe,#282730);
     color: transparent;
     background-clip: text;
 }
