@@ -107,3 +107,13 @@ body{
     display: flex;
     display: row;
 }
+
+.posts {
+    margin: 10px 100px 50px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color:white;
+}
