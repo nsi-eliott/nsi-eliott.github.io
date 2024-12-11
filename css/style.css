@@ -113,6 +113,12 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 15px;
-    color:linear-gradient(#1010F5,#5F5F5F);
+    color:white;
     background-color: #101010;
+}
+
+.posts P{
+    background-image:linear-gradient(#1010F5,#5F5F5F);
+    color: transparent;
+    background-clip: text;
 }
