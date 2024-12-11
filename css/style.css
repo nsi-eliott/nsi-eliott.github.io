@@ -103,8 +103,7 @@ body{
 }
 
 .example{
-    display: flex;
-    display: row;
+    flex:70%;
 }
 
 .posts {
