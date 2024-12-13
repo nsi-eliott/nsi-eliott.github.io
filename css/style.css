@@ -112,9 +112,12 @@ body{
     background-color: #101010;
 }
 
-.posts p{
+.miku{
     background-image:linear-gradient(#92cfc6,#fdfdfe,#48c1d8);
     color: transparent;
     background-clip: text;
 }
 
+.white{
+    color:white;
+}
