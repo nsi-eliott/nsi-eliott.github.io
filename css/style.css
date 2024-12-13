@@ -24,7 +24,7 @@ h2{
     align-items: center;
     flex-wrap: wrap;
     width: 100%;
-    background-image:linear-gradient(lightblue,lightblue,blue,blue,darkblue,darkblue,black);
+    background-image:linear-gradient(lightblue,blue,darkblue,black 110%);
     margin-left: -7px;
     margin-top:-110px;
     position: fixed;
