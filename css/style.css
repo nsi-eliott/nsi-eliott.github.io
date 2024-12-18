@@ -128,3 +128,9 @@ body{
     color: transparent;
     background-clip: text;
 }
+
+.mimi{
+    background-image: linear-gradient(#e79d94,#e8cdad,#a3a5b5);
+    color: transparent;
+    background-clip:text;
+}
