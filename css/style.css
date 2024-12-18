@@ -95,6 +95,7 @@ body{
 .vocaloid{
     height: 300px;
     opacity: 100%;
+    margin:5px;
 }
 
 .example{
@@ -120,8 +121,4 @@ body{
 
 .white{
     color:white;
-}
-
-.documentation{
-    width: 933px;
 }
