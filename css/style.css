@@ -134,3 +134,9 @@ body{
     color: transparent;
     background-clip:text;
 }
+
+.kasane{
+    background-image: linear-gradient(#e8617b,#567384,#b24659);
+    color: transparent;
+    background-clip:text;
+}
