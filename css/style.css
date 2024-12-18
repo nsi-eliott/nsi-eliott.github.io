@@ -122,3 +122,9 @@ body{
 .white{
     color:white;
 }
+
+.fukase{
+    background-image:linear-gradient(#fe0117,#fffee7,#825f4d);
+    color: transparent;
+    background-clip: text;
+}
