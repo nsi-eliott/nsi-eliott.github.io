@@ -3,21 +3,25 @@
     height: 100px ;
     padding-right:5px;
 }
+
 .grass span{
     font-weight: bold;
     font-family: lato-light,sans-serif;
     overflow-wrap:break-word ;
     text-align: start;
 }
+
 .lato-light span{
     font-family: "Lato", sans-serif;
     font-weight: 300;
     font-style: normal;
 }
+
 h2{
     line-height: 0.9em;
     width: 130px;
 }
+
 .main{
     display:flex;
     justify-content: flex-start;
