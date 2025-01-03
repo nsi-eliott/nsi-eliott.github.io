@@ -153,3 +153,17 @@ body{
     align-items: center;
     font-size: 15px;
 }
+
+.lien{
+    text-decoration: none;
+    font-size: 14px;
+    margin: 10px;
+    transition: text-decoration 0.1s, text-decoration-color 0.1s, color 0.1s;
+    border: solid rgb(37, 37, 37) 1px;
+    min-width: 167px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    height: 45px;
+    align-items: center;
+    justify-content: center;
+}
