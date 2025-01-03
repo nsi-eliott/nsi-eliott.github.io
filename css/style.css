@@ -176,6 +176,7 @@ body{
   max-width: 1000px;
   position: relative;
   margin: auto;
+  margin-top: 110px;
 }
 
 /* Hide the images by default */
